@@ -1,0 +1,70 @@
+ID Name                 Region  Smart     Third     Score
+---------------------------------------------------------
+ 0 alien_AR             AR     276760     55790   9264.91
+35 smdmitry_AR          AR     256876     71543   8901.96
+ 8 madmax_AR            AR     244424     72295   8526.80
+47 chmex_AR             AR     227772     69629   7969.94
+16 peer2cloud_AR        AR     215465     22546   6870.78
+12 decker_AR            AR     206399     24626   6646.62
+20 titomane_AR          AR     183719     36034   6128.38
+39 etszombi_AR          AR     156819     36740   5323.00
+ 4 fullmoon_AR          AR     156478     17904   5015.12
+43 marmarachain_AR      AR     140190     27450   4659.90
+24 metaphilibert_AR     AR     131702     29789   4442.97
+28 indenodes_AR         AR     124674     16903   4016.44
+55 mrlynch_AR           AR     101900     40681   3718.45
+31 tonyl_AR             AR     105291     24860   3573.80
+51 dudezmobi_AR         AR      65637     15801   2230.33
+---------------------------------------------------------
+63 decker_DEV           DEV    160323     17205   5101.02
+61 artemii235_DEV       DEV    100612     31013   3528.41
+62 tonyl_DEV            DEV     96050     22715   3274.17
+60 alright_DEV          DEV     60516         0   1818.26
+---------------------------------------------------------
+ 1 alien_EU             EU     302532     82989  10462.43
+21 chmex_EU             EU     299152     81055  10316.98
+38 cipi_EU              EU     282670     81546   9840.21
+ 5 phba2061_EU          EU     282406     77154   9749.83
+34 node9_EU             EU     279467     78925   9692.88
+50 madmax_EU            EU     262868     75187   9135.18
+ 9 titomane_EU          EU     275501     30090   8832.07
+25 etszombi_EU          EU     255116     53426   8564.14
+46 oszy_EU              EU     245009     30519   7911.44
+58 decker_EU            EU     231050     45804   7723.55
+13 indenodes_EU         EU     185190     20003   5911.41
+17 pirate_EU            EU     166143     11558   5238.12
+54 starfleet_EU         EU     153070     30359   5100.10
+30 mihailo_EU           EU     103331     19538   3427.58
+42 swisscertifiers_EU   EU      75716     18390   2589.50
+---------------------------------------------------------
+32 alien_NA             NA     294284     76932  10119.45
+ 2 strob_NA             NA     282319     72149   9667.99
+40 pbca26_NA            NA     281368     68754   9592.63
+10 cipi_NA              NA     281915     44064   9217.30
+14 madmax_NA            NA     268165     70365   9211.71
+36 nodeone_NA           NA     270642     62814   9177.77
+44 karasugoi_NA         NA     265535     50361   8837.96
+18 webworker01_NA       NA     262954     44971   8664.18
+56 greer_NA             NA     231887     53350   7846.99
+26 pirate_NA            NA     222096     15225   6979.86
+52 daemonfox_NA         NA     188462     28662   6164.11
+22 indenodes_NA         NA     190890      8634   5907.84
+29 chainmakers_NA       NA     180825     17868   5774.52
+48 dragonhound_NA       NA     164000     25310   5366.00
+ 6 fullmoon_NA          NA     152393     26772   5015.25
+---------------------------------------------------------
+49 strob_SH             SH     138333     35669   4730.98
+57 mcrypt_SH            SH     139728     29345   4677.38
+59 dappvader_SH         SH     131940     31606   4478.49
+19 zatjum_SH            SH     118386     29021   4031.49
+41 mylo_SH              SH     128488      5922   3997.75
+ 3 titomane_SH          SH     120790     14972   3893.55
+37 gcharang_SH          SH     115212     25697   3877.46
+27 metaphilibert_SH     SH     111098     21456   3687.91
+45 phm87_SH             SH     112271     11365   3574.08
+15 chainzilla_SH        SH     109268     15930   3552.98
+33 pungocloud_SH        SH     103343     18839   3410.25
+23 patchkez_SH          SH     105760      8476   3330.37
+11 indenodes_SH         SH      90519      8505   2872.12
+53 nutellalicka_SH      SH      68193     17508   2331.85
+ 7 fullmoon_SH          SH      69643     15052   2330.93
