@@ -191,7 +191,7 @@ notaries.sort(key=itemgetter('score'), reverse=True)
 notaries.sort(key=itemgetter('region'))
 
 # nice output
-print('{:2s} {:20s} {:6s} {:>6s} {:>9s} {:>9s} {:>9s}'.format('ID', 'Name', 'Region', 'BTC', 'Smart', 'Third', 'Score'))
+print('{:>2s} {:2s} {:20s} {:6s} {:>6s} {:>9s} {:>9s} {:>9s}'.format('#', 'ID', 'Name', 'Region', 'BTC', 'Smart', 'Third', 'Score'))
 current_region = ''
 rank = 1
 for notarydata in notaries:
