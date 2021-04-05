@@ -173,8 +173,12 @@ with open('s4-stats-txes-time.csv', newline='') as csvfile:
                 if int(row[4]) < start_time_comp or int(row[4]) > end_time_comp:
                     continue
 
-            if int(row[4]) >= 1593331689 and int(row[4]) < 1606390840:
-                score_add = 0.0977 / 6 # added HUSH3, MCL then added GLEEC removed HUSH3
+            if int(row[4]) >= 1593331689 and int(row[4]) < 1603623834:
+                score_add = 0.0977 / 6 # added HUSH3, MCL
+            elif int(row[4]) >= 1603623834 and int(row[4]) < 1603710234:
+                score_add = 0.0977 / 5 # removed HUSH3
+            elif int(row[4]) >= 1603710234 and int(row[4]) < 1606390840:
+                score_add = 0.0977 / 6 # added GLEEC
             elif int(row[4]) >= 1606390840:
                 score_add = 0.0977 / 7 # added PBC
             else:
