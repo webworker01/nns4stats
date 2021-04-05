@@ -193,8 +193,11 @@ notaries.sort(key=itemgetter('region'))
 # nice output
 print('{:2s} {:20s} {:6s} {:>6s} {:>9s} {:>9s} {:>9s}'.format('ID', 'Name', 'Region', 'BTC', 'Smart', 'Third', 'Score'))
 current_region = ''
+rank = 1
 for notarydata in notaries:
     if notarydata['region'] != current_region:
-        print('-------------------------------------------------------------------')
+        print('----------------------------------------------------------------------')
         current_region = notarydata['region']
-    print('{:2d} {:20s} {:3s} {:9d} {:9d} {:9d} {:9.2f}'.format(notarydata['id'], notarydata['name'], notarydata['region'], notarydata['btc'], notarydata['smartchain'], notarydata['thirdparty'], notarydata['score']))
+        rank = 1
+    print('{:2d} {:2d} {:20s} {:3s} {:9d} {:9d} {:9d} {:9.2f}'.format(rank, notarydata['id'], notarydata['name'], notarydata['region'], notarydata['btc'], notarydata['smartchain'], notarydata['thirdparty'], notarydata['score']))
+    rank += 1
