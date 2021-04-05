@@ -62,70 +62,70 @@ scoring_epochs = {
 }
 
 notaries = [
-    {'id': 0, 'name': 'alien_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 1, 'name': 'alien_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 2, 'name': 'strob_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 3, 'name': 'titomane_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 4, 'name': 'fullmoon_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 5, 'name': 'phba2061_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 6, 'name': 'fullmoon_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 7, 'name': 'fullmoon_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 8, 'name': 'madmax_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 9, 'name': 'titomane_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 10, 'name': 'cipi_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 11, 'name': 'indenodes_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 12, 'name': 'decker_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 13, 'name': 'indenodes_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 14, 'name': 'madmax_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 15, 'name': 'chainzilla_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 16, 'name': 'peer2cloud_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 17, 'name': 'pirate_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 18, 'name': 'webworker01_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 19, 'name': 'zatjum_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 20, 'name': 'titomane_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 21, 'name': 'chmex_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 22, 'name': 'indenodes_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 23, 'name': 'patchkez_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 24, 'name': 'metaphilibert_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 25, 'name': 'etszombi_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 26, 'name': 'pirate_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 27, 'name': 'metaphilibert_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 28, 'name': 'indenodes_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 29, 'name': 'chainmakers_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 30, 'name': 'mihailo_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 31, 'name': 'tonyl_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 32, 'name': 'alien_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 33, 'name': 'pungocloud_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 34, 'name': 'node9_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 35, 'name': 'smdmitry_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 36, 'name': 'nodeone_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 37, 'name': 'gcharang_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 38, 'name': 'cipi_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 39, 'name': 'etszombi_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 40, 'name': 'pbca26_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 41, 'name': 'mylo_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 42, 'name': 'swisscertifiers_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 43, 'name': 'marmarachain_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 44, 'name': 'karasugoi_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 45, 'name': 'phm87_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 46, 'name': 'oszy_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 47, 'name': 'chmex_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 48, 'name': 'dragonhound_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 49, 'name': 'strob_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 50, 'name': 'madmax_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 51, 'name': 'dudezmobi_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 52, 'name': 'daemonfox_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 53, 'name': 'nutellalicka_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 54, 'name': 'starfleet_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 55, 'name': 'mrlynch_AR', 'region': 'AR', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 56, 'name': 'greer_NA', 'region': 'NA', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 57, 'name': 'mcrypt_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 58, 'name': 'decker_EU', 'region': 'EU', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 59, 'name': 'dappvader_SH', 'region': 'SH', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 60, 'name': 'alright_DEV', 'region': 'DEV', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 61, 'name': 'artemii235_DEV', 'region': 'DEV', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 62, 'name': 'tonyl_DEV', 'region': 'DEV', 'smartchain': 0, 'thirdparty': 0, 'score': 0},
-    {'id': 63, 'name': 'decker_DEV', 'region': 'DEV', 'smartchain': 0, 'thirdparty': 0, 'score': 0}
+    {'id': 0, 'name': 'alien_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 1, 'name': 'alien_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 2, 'name': 'strob_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 3, 'name': 'titomane_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 4, 'name': 'fullmoon_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 5, 'name': 'phba2061_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 6, 'name': 'fullmoon_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 7, 'name': 'fullmoon_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 8, 'name': 'madmax_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 9, 'name': 'titomane_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 10, 'name': 'cipi_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 11, 'name': 'indenodes_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 12, 'name': 'decker_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 13, 'name': 'indenodes_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 14, 'name': 'madmax_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 15, 'name': 'chainzilla_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 16, 'name': 'peer2cloud_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 17, 'name': 'pirate_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 18, 'name': 'webworker01_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 19, 'name': 'zatjum_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 20, 'name': 'titomane_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 21, 'name': 'chmex_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 22, 'name': 'indenodes_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 23, 'name': 'patchkez_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 24, 'name': 'metaphilibert_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 25, 'name': 'etszombi_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 26, 'name': 'pirate_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 27, 'name': 'metaphilibert_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 28, 'name': 'indenodes_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 29, 'name': 'chainmakers_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 30, 'name': 'mihailo_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 31, 'name': 'tonyl_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 32, 'name': 'alien_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 33, 'name': 'pungocloud_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 34, 'name': 'node9_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 35, 'name': 'smdmitry_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 36, 'name': 'nodeone_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 37, 'name': 'gcharang_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 38, 'name': 'cipi_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 39, 'name': 'etszombi_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 40, 'name': 'pbca26_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 41, 'name': 'mylo_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 42, 'name': 'swisscertifiers_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 43, 'name': 'marmarachain_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 44, 'name': 'karasugoi_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 45, 'name': 'phm87_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 46, 'name': 'oszy_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 47, 'name': 'chmex_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 48, 'name': 'dragonhound_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 49, 'name': 'strob_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 50, 'name': 'madmax_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 51, 'name': 'dudezmobi_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 52, 'name': 'daemonfox_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 53, 'name': 'nutellalicka_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 54, 'name': 'starfleet_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 55, 'name': 'mrlynch_AR', 'region': 'AR', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 56, 'name': 'greer_NA', 'region': 'NA', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 57, 'name': 'mcrypt_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 58, 'name': 'decker_EU', 'region': 'EU', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 59, 'name': 'dappvader_SH', 'region': 'SH', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 60, 'name': 'alright_DEV', 'region': 'DEV', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 61, 'name': 'artemii235_DEV', 'region': 'DEV', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 62, 'name': 'tonyl_DEV', 'region': 'DEV', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0},
+    {'id': 63, 'name': 'decker_DEV', 'region': 'DEV', 'btc': 0, 'smartchain': 0, 'thirdparty': 0, 'score': 0}
 ]
 
 # @see https://discordapp.com/channels/412898016371015680/456828345871761408/828270697692397608
@@ -133,37 +133,39 @@ notaries = [
 with open('s4-stats-txes-time.csv', newline='') as csvfile:
     readfile = csv.reader(csvfile, delimiter=',', quotechar='|')
     for row in readfile:
+        # All need to be within season_start and season_end
         if int(row[4]) < scoring_epochs['Season_4']['season_start'] or int(row[4]) > scoring_epochs['Season_4']['season_end']:
             continue
 
+        # KMD -> BTC static score
+        if row[2] == 'KMD':
+            count_index = 'btc'
+            score_add = 0.0325
+
         # points for main server
-        if row[2] not in thirdparty:
+        elif row[2] not in thirdparty:
             count_index = 'smartchain'
-            # KMD -> BTC static score
-            if row[2] == 'KMD':
-                score_add = 0.0325
+            # check if within time range
+            if row[2] in scoring_epochs['Season_4']['Servers']['dPoW-Mainnet']:
+                start_time_comp = 1592146800 if 'start_time' not in scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]] else scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]]['start_time']
+                end_time_comp = 1617364800 if 'end_time' not in scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]] else scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]]['end_time']
+
+                if int(row[4]) < start_time_comp or int(row[4]) > end_time_comp:
+                    continue
+
+            if int(row[4]) >= 1613769736 and int(row[4]) < 1616250930:
+                score_add = 0.8698 / 28 # removed RFOX
+            elif int(row[4]) >= 1616250930 and int(row[4]) < 1617181776:
+                score_add = 0.8698 / 26 # removed PGT and STBL
+            elif int(row[4]) >= 1617181776:
+                score_add = 0.8698 / 28 # add GLEEC and VOTE2021
             else:
-                # check if within time range
-                if row[2] in scoring_epochs['Season_4']['Servers']['dPoW-Mainnet']:
-                    start_time_comp = 1592146800 if 'start_time' not in scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]] else scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]]['start_time']
-                    end_time_comp = 1617364800 if 'end_time' not in scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]] else scoring_epochs['Season_4']['Servers']['dPoW-Mainnet'][row[2]]['end_time']
-
-                    if int(row[4]) < start_time_comp or int(row[4]) > end_time_comp:
-                        continue
-
-                if int(row[4]) >= 1613769736 and int(row[4]) < 1616250930:
-                    score_add = 0.8698 / 28 # removed RFOX
-                elif int(row[4]) >= 1616250930 and int(row[4]) < 1617181776:
-                    score_add = 0.8698 / 26 # removed PGT and STBL
-                elif int(row[4]) >= 1617181776:
-                    score_add = 0.8698 / 28 # add GLEEC and VOTE2021
-                else:
-                    score_add = 0.8698 / 29 # starting state with 29 smart chains
+                score_add = 0.8698 / 29 # starting state with 29 smart chains
 
         # points for 3p server
         else:
             count_index = 'thirdparty'
-            # check if this one should even count
+            # check if within time range
             if row[2] in scoring_epochs['Season_4']['Servers']['dPoW-3P']:
                 start_time_comp = 1592146800 if 'start_time' not in scoring_epochs['Season_4']['Servers']['dPoW-3P'][row[2]] else scoring_epochs['Season_4']['Servers']['dPoW-3P'][row[2]]['start_time']
                 end_time_comp = 1617364800 if 'end_time' not in scoring_epochs['Season_4']['Servers']['dPoW-3P'][row[2]] else scoring_epochs['Season_4']['Servers']['dPoW-3P'][row[2]]['end_time']
@@ -189,10 +191,10 @@ notaries.sort(key=itemgetter('score'), reverse=True)
 notaries.sort(key=itemgetter('region'))
 
 # nice output
-print('{:2s} {:20s} {:6s} {:>6s} {:>9s} {:>9s}'.format('ID', 'Name', 'Region', 'Smart', 'Third', 'Score'))
+print('{:2s} {:20s} {:6s} {:>6s} {:>9s} {:>9s} {:>9s}'.format('ID', 'Name', 'Region', 'BTC', 'Smart', 'Third', 'Score'))
 current_region = ''
 for notarydata in notaries:
     if notarydata['region'] != current_region:
-        print('---------------------------------------------------------')
+        print('-------------------------------------------------------------------')
         current_region = notarydata['region']
-    print('{:2d} {:20s} {:3s} {:9d} {:9d} {:9.2f}'.format(notarydata['id'], notarydata['name'], notarydata['region'], notarydata['smartchain'], notarydata['thirdparty'], notarydata['score']))
+    print('{:2d} {:20s} {:3s} {:9d} {:9d} {:9d} {:9.2f}'.format(notarydata['id'], notarydata['name'], notarydata['region'], notarydata['btc'], notarydata['smartchain'], notarydata['thirdparty'], notarydata['score']))
